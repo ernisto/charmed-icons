@@ -5,6 +5,19 @@ All notable changes to the "charmed-icons" extension will be documented in this 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [0.6.1] - 2024-08-29
+
+- Add `styluaignore` file extension
+- Fix `code-snippets` files that don't match `.code-snippets` exactly
+- Change `code-snippets` to display as JSON
+
+## [0.6.0] - 2024-08-28
+
+- Add folder icons `docs`, `files`, `.lune`
+- Add file icons `vite`, `zig`, `docker`
+- Add aliases to more file and folder icons
+- Redesign `html`, `css`, `json`
+
 ## [0.5.1] - 2024-07-07
 
 ### Changed
